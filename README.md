@@ -5,7 +5,8 @@
 ## 作业名称
 
 1. `style`：风格小作业；
-2. `interface`：接口小作业。
+2. `interface`：接口小作业；
+3. `performance`：性能小作业。
 
 ## 目录结构
 
